@@ -15,6 +15,15 @@
     color: #333;
 }
 
+.input {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
 .subscribeButton {
     padding: 1rem;
     background-color: #007bff;
